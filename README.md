@@ -15,11 +15,11 @@ Remind Me is a Web App for Creating reminders on Google calendar with custom int
   ```
 
 ## Usage
-![Authorise Application for using your google account](https://github.com/abhi2196/remind_me/images/usage/authorize.png)
+![Authorise Application for using your google account](https://github.com/abhi2196/remind_me/blob/master/images/usage/authorize.png)
 
-![This App only needs Google Calendar View/edit permissions](https://github.com/abhi2196/remind_me/images/usage/allow.png)
+![This App only needs Google Calendar View/edit permissions](https://github.com/abhi2196/remind_me/blob/master/images/usage/allow.png)
 
-![Create a event](https://github.com/abhi2196/remind_me/images/usage/create_event.png)
+![Create a event](https://github.com/abhi2196/remind_me/blob/master/images/usage/create_event.png)
 * Provide Event Name
 * Provide Recurrence Count for Event (minimum: 1, maximum: 10)
 * Provide Custom Recurrence Pattern (comma separated list of numbers e.g. 5,10,15)
